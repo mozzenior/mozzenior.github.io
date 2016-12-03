@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "2016-06-06 福岡、大濠公園（壹）"
+date:   2016-12-03 10:30:00 +0800
+categories: travel
+---
+{% include jquery.lazyload %}
+
+原本這次的旅行是定位於巡覽九州的各處鄉村與森林。不幸熊本發生了[大地震](https://zh.wikipedia.org/wiki/2016%E5%B9%B4%E7%86%8A%E6%9C%AC%E5%9C%B0%E9%9C%87){:target="_blank"}，許多鐵道時間表變得十分不確定，所以才改為跨越九州、廣島、與四國的旅遊。
+
+自助過兩次東京後，發覺於大城市裡的旅行不是我最喜歡的選項，所以對同樣是大都市的福岡並沒有多大期待。由於它是１９９８年發售的電腦遊戲[《青澀之戀》](https://zh.wikipedia.org/wiki/%E9%9D%92%E6%BE%80%E5%AF%B6%E8%B2%9D){:target="_blank"}裡，十二位女主角之一的松岡千惠的出身地，抱著聖地巡禮的心情，還是排了幾個景點。
+
+或許也正是因為沒有抱著太多的期待，才能好好地欣賞[大濠公園](http://www.ohorikouen.jp){:target="_blank"}的美麗。
+
+{% include image.lazyload name="20160606-001.jpg" caption="大濠公園案內" width="960" %}
+
+大濠公園位於地下鐵的大濠公園站附近。出地下鐵後，大約一分鐘的路程就能抵達。雖然佔地廣大，但進場是不需要門票的。整個「我家後公園」的概念（笑）。
+
+{% include image.lazyload name="20160606-003.jpg" caption="行人道、自行車道、自動車道，互相分開" width="960" %}
+
+大濠公園的設計，參考了杭州西湖，所以湖中有島，且以橋連島。
+
+{% include image.lazyload name="20160606-002.jpg" caption="觀月橋" width="960" %}
+{% include image.lazyload name="20160606-004.jpg" caption="松月橋" width="960" %}
+
+很喜歡城市裡有一座巨大的綠色公園。讓我想起東京的新宿御苑。彷彿水泥打造的都市叢林裡，僅剩的一片綠洲。
+
+{% include image.lazyload name="20160606-007.jpg" caption="以樹木與湖泊隔離都市的喧擾" width="960" %}
+{% include image.lazyload name="20160606-010.jpg" caption="湖畔" width="960" %}
+
+湖裡當然是有生物的。
+
+{% include image.lazyload name="20160606-009.jpg" caption="湖畔曬太陽的烏龜" width="960" %}
+{% include image.lazyload name="20160606-012.jpg" caption="錦鯉" width="960" %}
+
+除了穿越公園、腳步充忙的上班族們，也能看到悠閒散步的市民們。
+
+{% include image.lazyload name="20160606-005.jpg" caption="外出散步的中年夫婦" width="960" %}
+{% include image.lazyload name="20160606-011.jpg" caption="遛狗與推著娃娃車的市民" width="451" %}
+
+大濠公園緊鄰著一座小型日式庭園，以及一座美術館。可惜當日都是公休，僅能拍攝外牆，沒有進去參觀。
+
+{% include image.lazyload name="20160606-008.jpg" caption="日式庭園的外牆。我很喜歡這樣子的長牆。" width="960" %}
+{% include image.lazyload name="20160606-006.jpg" caption="福岡市美術館" width="960" %}
