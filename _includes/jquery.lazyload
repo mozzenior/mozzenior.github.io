@@ -1,0 +1,10 @@
+<script type="text/javascript" src="/assets/javascripts/jquery-3.1.1.min.js"></script>
+<script type="text/javascript" src="/assets/javascripts/jquery.lazyload-2.9.7.min.js"></script>
+<script type="text/javascript">
+  $(function() {
+    $("img.lazy").lazyload({
+      effect: "fadeIn",
+      threshold: 200
+    });
+  });
+</script>
