@@ -33,7 +33,7 @@ categories: travel
 {% include image.lazyload name="20160606-009.jpg" caption="湖畔曬太陽的烏龜" width="960" %}
 {% include image.lazyload name="20160606-012.jpg" caption="錦鯉" width="960" %}
 
-除了穿越公園、腳步充忙的上班族們，也能看到悠閒散步的市民們。
+除了穿越公園、腳步匆忙的上班族們，也能看到悠閒散步的市民們。
 
 {% include image.lazyload name="20160606-005.jpg" caption="外出散步的中年夫婦" width="960" %}
 {% include image.lazyload name="20160606-011.jpg" caption="遛狗與推著娃娃車的市民" width="451" %}
